@@ -7,6 +7,7 @@ Welcome to follow and share with friends around, we will continue more.
 
 [View on Twitter/X](https://twitter.com/yamose790)
 
+Thanks to AI Inferkit for sponsoring:  [Cheaper & Faster LLM API Router](https://inferkit.ai)
 
 ----
 
